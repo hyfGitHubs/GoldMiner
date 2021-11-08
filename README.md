@@ -1,1 +1,1 @@
-# goldminer
+# GoldMiner
